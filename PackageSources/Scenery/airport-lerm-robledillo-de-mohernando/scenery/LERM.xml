@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<Airport displayName="Robledillo De Mohernando" groupID="4294967295" groupGenerated="FALSE" name="Robledillo De Mohernando" ident="LERM" lat="40.86546901613474" lon="-3.24733659625053" alt="949.37304687500000" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE">
+		<Aprons/>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+	</Airport>
+</FSData>
+

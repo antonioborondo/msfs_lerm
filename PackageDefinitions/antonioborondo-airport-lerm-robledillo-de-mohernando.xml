@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssetPackage Version="0.0.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>LERM</Title>
+		<Manufacturer/>
+		<Creator>Antonio Borondo</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\antonioborondo-airport-lerm-robledillo-de-mohernando\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\antonioborondo-airport-lerm-robledillo-de-mohernando\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="scenery">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\airport-lerm-robledillo-de-mohernando\scenery\</AssetDir>
+			<OutputDir>Scenery\airport-lerm-robledillo-de-mohernando\scenery\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

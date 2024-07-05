@@ -3,7 +3,9 @@
 	<OutputDirectory>.</OutputDirectory>
 	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
 	<PublishingGroupTemporaryOutputDirectory>_PublishingGroupInt</PublishingGroupTemporaryOutputDirectory>
-	<Packages/>
+	<Packages>
+		<Package>PackageDefinitions\antonioborondo-airport-lerm-robledillo-de-mohernando.xml</Package>
+	</Packages>
 	<PublishingGroups/>
 </Project>
 
