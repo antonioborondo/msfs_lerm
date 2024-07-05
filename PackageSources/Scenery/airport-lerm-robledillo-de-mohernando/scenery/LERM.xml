@@ -4,6 +4,7 @@
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
+		<Com frequency="123.325000" type="UNICOM" name="LERM"/>
 		<DeleteAirport deleteAllApproaches="FALSE" deleteAllApronLights="FALSE" deleteAllAprons="FALSE" deleteAllFrequencies="TRUE" deleteAllHelipads="FALSE" deleteAllRunways="FALSE" deleteAllStarts="FALSE" deleteAllTaxiways="FALSE" deleteAllVectorPlacement="FALSE" deleteAllBoundaryFences="FALSE" deleteAllJetways="FALSE" deleteAllControlTowers="FALSE" deleteAllDepartures="FALSE" deleteAllArrivals="FALSE" deleteAllPaintedElements="FALSE" deleteAllLightSupports="FALSE" deleteAllTaxiwaySigns="FALSE" deleteAllILSs="FALSE" deleteAllTerminalWaypoints="FALSE" deleteAllTerminalNDBs="FALSE"/>
 	</Airport>
 </FSData>
